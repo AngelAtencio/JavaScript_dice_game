@@ -1,0 +1,25 @@
+{
+  "name": "4-dom-pig-game",
+  "version": "1.0.0",
+  "description": "This is a dice game with JS",
+  "main": "index.js",
+  "game": "https://AngelAtencio.github.io/JavaScript_dice_game",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dice_game"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelAtencio/JavaScript_dice_game.git"
+  },
+  "author": "Angel Atencio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngelAtencio/JavaScript_dice_game/issues"
+  },
+  "homepage": "https://github.com/AngelAtencio/JavaScript_dice_game#readme"
+}
